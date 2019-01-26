@@ -1,7 +1,183 @@
 fileFormatVersion: 2
 guid: a909816349ad79a4b91c33a2246d8609
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: map copy_0
+    21300002: map copy_1
+    21300004: map copy_2
+    21300006: map copy_3
+    21300008: map copy_4
+    21300010: map copy_5
+    21300012: map copy_6
+    21300014: map copy_7
+    21300016: map copy_8
+    21300018: map copy_9
+    21300020: map copy_10
+    21300022: map copy_11
+    21300024: map copy_12
+    21300026: map copy_13
+    21300028: map copy_14
+    21300030: map copy_15
+    21300032: map copy_16
+    21300034: map copy_17
+    21300036: map copy_18
+    21300038: map copy_19
+    21300040: map copy_20
+    21300042: map copy_21
+    21300044: map copy_22
+    21300046: map copy_23
+    21300048: map copy_24
+    21300050: map copy_25
+    21300052: map copy_26
+    21300054: map copy_27
+    21300056: map copy_28
+    21300058: map copy_29
+    21300060: map copy_30
+    21300062: map copy_31
+    21300064: map copy_32
+    21300066: map copy_33
+    21300068: map copy_34
+    21300070: map copy_35
+    21300072: map copy_36
+    21300074: map copy_37
+    21300076: map copy_38
+    21300078: map copy_39
+    21300080: map copy_40
+    21300082: map copy_41
+    21300084: map copy_42
+    21300086: map copy_43
+    21300088: map copy_44
+    21300090: map copy_45
+    21300092: map copy_46
+    21300094: map copy_47
+    21300096: map copy_48
+    21300098: map copy_49
+    21300100: map copy_50
+    21300102: map copy_51
+    21300104: map copy_52
+    21300106: map copy_53
+    21300108: map copy_54
+    21300110: map copy_55
+    21300112: map copy_56
+    21300114: map copy_57
+    21300116: map copy_58
+    21300118: map copy_59
+    21300120: map copy_60
+    21300122: map copy_61
+    21300124: map copy_62
+    21300126: map copy_63
+    21300128: map copy_64
+    21300130: map copy_65
+    21300132: map copy_66
+    21300134: map copy_67
+    21300136: map copy_68
+    21300138: map copy_69
+    21300140: map copy_70
+    21300142: map copy_71
+    21300144: map copy_72
+    21300146: map copy_73
+    21300148: map copy_74
+    21300150: map copy_75
+    21300152: map copy_76
+    21300154: map copy_77
+    21300156: map copy_78
+    21300158: map copy_79
+    21300160: map copy_80
+    21300162: map copy_81
+    21300164: map copy_82
+    21300166: map copy_83
+    21300168: map copy_84
+    21300170: map copy_85
+    21300172: map copy_86
+    21300174: map copy_87
+    21300176: map copy_88
+    21300178: map copy_89
+    21300180: map copy_90
+    21300182: map copy_91
+    21300184: map copy_92
+    21300186: map copy_93
+    21300188: map copy_94
+    21300190: map copy_95
+    21300192: map copy_96
+    21300194: map copy_97
+    21300196: map copy_98
+    21300198: map copy_99
+    21300200: map copy_100
+    21300202: map copy_101
+    21300204: map copy_102
+    21300206: map copy_103
+    21300208: map copy_104
+    21300210: map copy_105
+    21300212: map copy_106
+    21300214: map copy_107
+    21300216: map copy_108
+    21300218: map copy_109
+    21300220: map copy_110
+    21300222: map copy_111
+    21300224: map copy_112
+    21300226: map copy_113
+    21300228: map copy_114
+    21300230: map copy_115
+    21300232: map copy_116
+    21300234: map copy_117
+    21300236: map copy_118
+    21300238: map copy_119
+    21300240: map copy_120
+    21300242: map copy_121
+    21300244: map copy_122
+    21300246: map copy_123
+    21300248: map copy_124
+    21300250: map copy_125
+    21300252: map copy_126
+    21300254: map copy_127
+    21300256: map copy_128
+    21300258: map copy_129
+    21300260: map copy_130
+    21300262: map copy_131
+    21300264: map copy_132
+    21300266: map copy_133
+    21300268: map copy_134
+    21300270: map copy_135
+    21300272: map copy_136
+    21300274: map copy_137
+    21300276: map copy_138
+    21300278: map copy_139
+    21300280: map copy_140
+    21300282: map copy_141
+    21300284: map copy_142
+    21300286: map copy_143
+    21300288: map copy_144
+    21300290: map copy_145
+    21300292: map copy_146
+    21300294: map copy_147
+    21300296: map copy_148
+    21300298: map copy_149
+    21300300: map copy_150
+    21300302: map copy_151
+    21300304: map copy_152
+    21300306: map copy_153
+    21300308: map copy_154
+    21300310: map copy_155
+    21300312: map copy_156
+    21300314: map copy_157
+    21300316: map copy_158
+    21300318: map copy_159
+    21300320: map copy_160
+    21300322: map copy_161
+    21300324: map copy_162
+    21300326: map copy_163
+    21300328: map copy_164
+    21300330: map copy_165
+    21300332: map copy_166
+    21300334: map copy_167
+    21300336: map copy_168
+    21300338: map copy_169
+    21300340: map copy_170
+    21300342: map copy_171
+    21300344: map copy_172
+    21300346: map copy_173
+    21300348: map copy_174
+    21300350: map copy_175
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -31,7 +207,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +216,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -63,7 +239,18 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -71,7 +258,3715 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: map copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 949
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97a8e6670663c24481b2b0e5ec6e841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 949
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce5e36aa346d6e46bc95614f938b38a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 949
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e30a55c371ea74788213f59f0d741e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 949
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506b186677fa5634cbbf19dd239fe1f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 949
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4e037966ecb054a8d8cbc64e178878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 949
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deac3c0da43eea4699d3128c6442624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 949
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6cbba1a826a154584df7970c4d7329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 949
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e572de1afe7a00e4bb32d4c75ba12132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 949
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a8bbb74768d334b9eaab6f95f98c7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 949
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda8084d909d4324bb8304da8bb34ee4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 949
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fa31c874180ca47a201f6e04239c02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 949
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d9ba3fdd5c24c468413e0e8f5e2d6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 949
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a510cf95a38d147b23dd85a55bb049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 949
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f83ab427099cf146b73e9abf82afff3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 949
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f66e89eceb7ce4bbb24eb1856df1be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 949
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732bed3587ade5b419ef712b68c234cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 874
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacd828c3b3aea44baa4184285a7c7c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 874
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b242e2b95d9c6974b87208e94473da05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 874
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4476159a855454eaaa1ca6e2c231b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 874
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45f202eab69b304f9dbcd29f32d4035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 874
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda8831b4bb100f4fb8e8145a0a27d3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 874
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ba16c48d2d29c4d97f23e1f5b9e52a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 874
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0039c94131eed4c83bcdce99d794b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 874
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc47131e0cf005d4b94a343317ceee2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 874
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff9f1c068950614db2bf4b003717590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 874
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b30189d3f570cb48a0013dd268e9b01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 874
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf230184f21da4e48b339fde5110950b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 874
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f96cab40fcfea46bd41aff3e670e2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 874
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1823101a443e6e4494d73fca544d0af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_29
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 874
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894e21ea9ea559941b275f538da9e285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 874
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b45383c098aae449e3d9b788e2480c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 874
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47a2c20773db79489662566a4519d32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e94d942f952f3c4ab227be21357d164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 799
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -19.5}
+        - {x: -11, y: -19.5}
+        - {x: -11, y: -20.5}
+        - {x: -12, y: -20.5}
+        - {x: -12, y: -18.5}
+        - {x: -13, y: -18.5}
+        - {x: -13, y: -19.5}
+        - {x: -15, y: -19.5}
+        - {x: -15, y: -18.5}
+        - {x: -16, y: -18.5}
+        - {x: -16, y: -17.5}
+        - {x: -15, y: -17.5}
+        - {x: -15, y: -16.5}
+        - {x: -14, y: -16.5}
+        - {x: -14, y: -15.5}
+        - {x: -15, y: -15.5}
+        - {x: -15, y: -14.5}
+        - {x: -16, y: -14.5}
+        - {x: -16, y: -12.5}
+        - {x: -15, y: -12.5}
+        - {x: -15, y: -11.5}
+        - {x: -16, y: -11.5}
+        - {x: -16, y: -10.5}
+        - {x: -15, y: -10.5}
+        - {x: -15, y: -8.5}
+        - {x: -16, y: -8.5}
+        - {x: -16, y: -7.5}
+        - {x: -15, y: -7.5}
+        - {x: -15, y: -6.5}
+        - {x: -14, y: -6.5}
+        - {x: -14, y: -5.5}
+        - {x: -16, y: -5.5}
+        - {x: -16, y: -4.5}
+        - {x: -15, y: -4.5}
+        - {x: -15, y: -3.5}
+        - {x: -16, y: -3.5}
+        - {x: -16, y: -2.5}
+        - {x: -16, y: -1.5}
+        - {x: -15, y: -1.5}
+        - {x: -15, y: -0.5}
+        - {x: -16, y: -0.5}
+        - {x: -16, y: 0.5}
+        - {x: -15, y: 0.5}
+        - {x: -15, y: 1.5}
+        - {x: -16, y: 1.5}
+        - {x: -16, y: 2.5}
+        - {x: -15, y: 2.5}
+        - {x: -15, y: 3.5}
+        - {x: -16, y: 3.5}
+        - {x: -16, y: 4.5}
+        - {x: -15, y: 4.5}
+        - {x: -15, y: 5.5}
+        - {x: -16, y: 5.5}
+        - {x: -16, y: 6.5}
+        - {x: -15, y: 6.5}
+        - {x: -15, y: 7.5}
+        - {x: -16, y: 7.5}
+        - {x: -16, y: 8.5}
+        - {x: -15, y: 8.5}
+        - {x: -15, y: 9.5}
+        - {x: -13, y: 9.5}
+        - {x: -13, y: 10.5}
+        - {x: -15, y: 10.5}
+        - {x: -15, y: 11.5}
+        - {x: -13, y: 11.5}
+        - {x: -13, y: 12.5}
+        - {x: -12, y: 12.5}
+        - {x: -12, y: 14.5}
+        - {x: -13, y: 14.5}
+        - {x: -13, y: 15.5}
+        - {x: -14, y: 15.5}
+        - {x: -14, y: 17.5}
+        - {x: -13, y: 17.5}
+        - {x: -13, y: 18.5}
+        - {x: -12, y: 18.5}
+        - {x: -12, y: 20.5}
+        - {x: -13, y: 20.5}
+        - {x: -13, y: 21.5}
+        - {x: -12, y: 21.5}
+        - {x: -11, y: 21.5}
+        - {x: -11, y: 22.5}
+        - {x: -10, y: 22.5}
+        - {x: -10, y: 23.5}
+        - {x: -11, y: 23.5}
+        - {x: -11, y: 24.5}
+        - {x: -12, y: 24.5}
+        - {x: -12, y: 25.5}
+        - {x: -11, y: 25.5}
+        - {x: -11, y: 26.5}
+        - {x: -12, y: 26.5}
+        - {x: -12, y: 27.5}
+        - {x: -11, y: 27.5}
+        - {x: -11, y: 28.5}
+        - {x: -11, y: 29.5}
+        - {x: -10, y: 29.5}
+        - {x: -10, y: 30.5}
+        - {x: -10, y: 31.5}
+        - {x: -9, y: 31.5}
+        - {x: -9, y: 35.5}
+        - {x: -8, y: 35.5}
+        - {x: -8, y: 33.5}
+        - {x: -7, y: 33.5}
+        - {x: -7, y: 31.5}
+        - {x: -5, y: 31.5}
+        - {x: -5, y: 30.5}
+        - {x: -7, y: 30.5}
+        - {x: -7, y: 29.5}
+        - {x: -6, y: 29.5}
+        - {x: -6, y: 28.5}
+        - {x: -5, y: 28.5}
+        - {x: -5, y: 27.5}
+        - {x: -6, y: 27.5}
+        - {x: -6, y: 25.5}
+        - {x: -4, y: 25.5}
+        - {x: -4, y: 24.5}
+        - {x: -5, y: 24.5}
+        - {x: -5, y: 22.5}
+        - {x: -3, y: 22.5}
+        - {x: -3, y: 21.5}
+        - {x: -4, y: 21.5}
+        - {x: -4, y: 20.5}
+        - {x: -5, y: 20.5}
+        - {x: -5, y: 19.5}
+        - {x: -3, y: 19.5}
+        - {x: -3, y: 18.5}
+        - {x: -4, y: 18.5}
+        - {x: -4, y: 17.5}
+        - {x: -2, y: 17.5}
+        - {x: -2, y: 16.5}
+        - {x: -3, y: 16.5}
+        - {x: -3, y: 14.5}
+        - {x: -1, y: 14.5}
+        - {x: -1, y: 13.5}
+        - {x: -2, y: 13.5}
+        - {x: -2, y: 12.5}
+        - {x: -1, y: 12.5}
+        - {x: -1, y: 11.5}
+        - {x: -2, y: 11.5}
+        - {x: -2, y: 10.5}
+        - {x: 0, y: 10.5}
+        - {x: 0, y: 9.5}
+        - {x: -2, y: 9.5}
+        - {x: -2, y: 6.5}
+        - {x: -1, y: 6.5}
+        - {x: -1, y: 5.5}
+        - {x: 0, y: 5.5}
+        - {x: 0, y: 4.5}
+        - {x: -2, y: 4.5}
+        - {x: -2, y: 1.5}
+        - {x: -1, y: 1.5}
+        - {x: -1, y: -2.5}
+        - {x: 0, y: -2.5}
+        - {x: 0, y: -5.5}
+        - {x: -1, y: -5.5}
+        - {x: -1, y: -6.5}
+        - {x: 0, y: -6.5}
+        - {x: 0, y: -7.5}
+        - {x: -1, y: -7.5}
+        - {x: -1, y: -9.5}
+        - {x: 0, y: -9.5}
+        - {x: 0, y: -11.5}
+        - {x: -2, y: -11.5}
+        - {x: -2, y: -12.5}
+        - {x: 0, y: -12.5}
+        - {x: 0, y: -13.5}
+        - {x: -1, y: -13.5}
+        - {x: -1, y: -14.5}
+        - {x: -2, y: -14.5}
+        - {x: -2, y: -15.5}
+        - {x: 0, y: -15.5}
+        - {x: 0, y: -16.5}
+        - {x: -1, y: -16.5}
+        - {x: -1, y: -17.5}
+        - {x: -3, y: -17.5}
+        - {x: -3, y: -18.5}
+        - {x: -4, y: -18.5}
+        - {x: -4, y: -19.5}
+        - {x: -6, y: -19.5}
+        - {x: -6, y: -18.5}
+        - {x: -7, y: -18.5}
+        - {x: -7, y: -23.5}
+        - {x: -7, y: -25.5}
+        - {x: -8, y: -25.5}
+        - {x: -8, y: -26.5}
+        - {x: -9, y: -26.5}
+        - {x: -9, y: -24.5}
+        - {x: -9, y: -18.5}
+        - {x: -10, y: -18.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6520635d46f5b8b4aae95dc4c1f90835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 799
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa46d0768bd5b9b4d9026b0f377a8f22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 799
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4d4bc4cc19de640b5f0c3e4af8c824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 799
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b5cead1cf9c704d9402f3a2f050ce5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 799
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8fa59a098e0f142843d40e707a85a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 799
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12792faa0dd23f0469a0b89d3f09fb62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 799
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e2ffe9705101642a0660ab6b334091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 799
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfa7668ae723164a8c889b9e77457eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_41
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 799
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2434d2c7e5bdf47a1019b211226ae9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 799
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8297f4e39bbdaf745bc2ce2fd7f717fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_43
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 799
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae15135ff5006dc45a4dcdc7e93c927c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 799
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24abff0ace516ba48912a328919fa2c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_45
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 799
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c767aac868e6ad043bac97700933f95a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 799
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667ab4e9a11065d49acebd999ed211b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 799
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7dc3f0ac20ce1449e11c95568d4970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e68b777fa844584fa6c20feebcc1bd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 724
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b6b6fb8c5740e4782b36b83154e46b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 724
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c1ebfc0dea7bc4f8a064245a21764c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 724
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a83610be43c18f49a8193f0d1d449a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 724
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14586fabb9a991428af9d29789502f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 724
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5170cc4be062ce74fbebfefc76957e0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 724
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0f9d1284e076e4cb3bf15f8f276c04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 724
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff76f10239d5964da7af42471e7005f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 724
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746b485e4411b9c498fc0259ecc33833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 724
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0780d10a0542c45af1252513839fd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 724
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9617ae97b542289479501d4cd608e51c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 724
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6955e92e2a161c844a04e325f8063f2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 724
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb565c0914e55d54d9abd71532964799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_61
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 724
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08da5039d9133a94ba3163cc285fe591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 724
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ae27a02a1adad43a23d26b3c51913e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_63
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 724
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48dc2d2d64f422488bdaf4c369300e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 649
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1654ff0a7d3e946a2a3c009e006fc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 649
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8faac866ee4be4ea12065a56d918bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 649
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4e327e60f5b3c4abbdcbe394a0ee03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 649
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a70600aca310944a69de434da9943f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 649
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3881dbea4ccfb6340876d37b97c3c11e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_69
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 649
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928d2407647e3194b94c3ee6ea684027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_70
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 649
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8796d14c4b8a2048a3754acf5644d64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 649
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6159f3a69c3a8e340b8f0586d6630cca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 649
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aff89dd5325d2b4e9760c2e5424640f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 649
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dafa509c01261439b7e1dcee0b733b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_74
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 649
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6089905daed90564781c55dd46e4ed7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_75
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 649
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c49640631150d499f79da352750cda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 649
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e5a11e08c281c42b169957b37d78f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_77
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 649
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d99132b31537346824df623d97c835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_78
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 649
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d491925d66b1ba4a8c9e5ff1c1f1bf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_79
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 649
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6fd30cd334c6e4a985cbd7863f4c32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08a27d1a86e4494eba1fa07bb694a1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 574
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b6f3ee60b874e4bb419de204d7abe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 574
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9747b57f9f806740a5e1e7992ba1528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 574
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e429922ee9d90ec4fb71b1846c296f4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 574
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b525eaa7b469604aa996799f2155492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 574
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc1572e0689a0741918a8987068ee89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 574
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aa2dd6468c51043bfe54e39575439f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 574
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56483bcf088f7d34286df7fe3f3629e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 574
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa111fde41c41747b94c67badcb004b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_89
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 574
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f02b158e4b8da3489308514521bc88b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 574
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2f6bb82f8290c44a19189c26e190d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_91
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 574
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c5207dba5fe9c43a339463853e2be4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_92
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 574
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce7d1f137b8aab49bce8750e9a86c24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_93
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 574
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7c0b80415d9f34d831b04dc1958538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 574
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8115620b4d6fc0045b191566aadabfa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 574
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5282fc417e085274792a95c7ba504429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f26b247bf616b44bb7e3a2c21895ebe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 499
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0561a9c8eaaa7c94984a23eb47d0873f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 499
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f72e85a7884525458eb7b35432c641c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 499
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c5093396521c44499e57e4b79a62e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 499
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2aa0ac2575d7ae40b5f6d1b5314c98c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 499
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5071aafae17354aa3e6967aed18c6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 499
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf4627dee9616c4f989206e9bbec5e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 499
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60fe4206b28dfb4a87b49e716898945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 499
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08a27f0ab2927347b4c36b20aed0ca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_105
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 499
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cae719075674c46bec89c67ff9f847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 499
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aac2badbb3da4d4eae6da79b1854384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_107
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 499
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f019d5a9d09f1704b82be1878b97444a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_108
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 499
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdd2295afce331439c33d409d43b080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_109
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 499
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5e6178d7b5cc848a1efffbc9183645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_110
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 499
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc85cb3b494c99647829aa8118147f17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_111
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 499
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ebe00396fde3f40a2697c3e179cc13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c59f3ecb22a3e4d91b452f4973e164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 424
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa8c0216c564fe4287f8a34dd74a679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 424
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f267be3ee78ecf74b8e5bb5d23a6ac64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 424
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4647ea4fb916fd143b4a95b473d72e3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 424
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb219413244c36f49b47803d803ea54f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 424
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bce9815bedc114c950128fbff924ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 424
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6af99076aa4d61409f68bee5b057236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 424
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd521f1fbae1e14797df7fe45b61ffb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_120
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 424
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58169fa58c3137c4aa7ab0fc3824c70f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_121
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 424
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d200fe4943b20da458b8b75db5c2fc77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_122
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 424
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4114fd157e1bca9469b498584704362f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_123
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 424
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85fd77137eb1af4ea5d5a0884a41270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_124
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 424
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765d12d9f685baa479fa2e65093b57fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_125
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 424
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f0f7f0ab66cb34398bfbe641c7533f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_126
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 424
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add50d51568ee7141af759b43ae9c15b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_127
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 424
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e494f66266312843aa03980a464f374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56e5dc371d644049a079c933e36b616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_129
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 349
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edb8896f071aac4abb414c105626f9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 349
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456e9516d413ebe46ab091867d09599b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_131
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 349
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8ddf2f74acf5645a9051e03a36dd59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_132
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 349
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8cb8383d623d7409ae4945d579d2ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_133
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 349
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d38e9beb4582ed4cadb6723ee79d46c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_134
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 349
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac31aaa6fcb14e840a32a2eb7d0858e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_135
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 349
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9890b3c012b470d4cad1716b8fbc5e65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_136
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 349
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ea44c48a90eba4e8cce2edcdcccdf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_137
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 349
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e2effa7335c6d4ba617e6679c3fe1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_138
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 349
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b6518fd0e951d47921caa901848387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_139
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 349
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6291825f199a242bf6eceec67be5f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_140
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 349
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6636fddc21103a14faf12d20e468a15a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_141
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 349
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaa01f12bd713446b4c763faa59d9ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_142
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 349
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8814f1bf33931041a7cbf3895d4ce14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_143
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 349
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a82ae9943af3e9448f9e434d1fbe601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b1544243a2aa740ae2734017ff76dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 274
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d777d044c9287e47b534817a16437ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_146
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 274
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7334f029ae8e54c8225283035d1e8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 274
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3449e0eda87978a46a7b1748426c1089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 274
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245c6a6a552afee42b365813e067b7b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 274
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32ba4075337b954e9b902f0d7265c75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_150
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 274
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3909709e46fe0da4b94ba7d13e4f1303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_151
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 274
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f1e33cfc952664cad2e56cadb8a0e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 274
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303c7ebcf9013d4409f943b4cd29e89b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_153
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 274
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af1827bc50663f4dba2789f031bbda5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_154
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 274
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376c6a12a40932140bdfda4e5ad16363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_155
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 274
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0ea926ee5407047b24323c6ef302a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 274
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580f9f07fd6456041b6c0154c204bc38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_157
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 274
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b928a8ba0497f1f498679f3049c89159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_158
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 274
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aead19b97e85b46b3ef0cf5cfcb685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_159
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 274
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594511f086676de44b8018b846124a1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434ec6776ca24e14e957f8fd449eee9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 199
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b882b32f44867554ca9665f1a2881fee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 199
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbe355ce2a085047b557b9661868911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_163
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 199
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b64ba8806681545ac1df666696915c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 199
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848a8f6cfb3397c47a36f73ed7fd393d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_165
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 199
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48af4b9941254a44b4573a2efc63eda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 199
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3982981c39856fe49ae5444eae09a44a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 199
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d783974157d48e044a00e86854baef0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_168
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 199
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5d02f94e8717b4dac9fc84fd8c55b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_169
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 199
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2ecbde2aaa0a24197169bf7f616dd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 199
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1314e859b21271248b6032a00dcaf9e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_171
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 199
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2ef45315684964492b0127ce986797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_172
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 199
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8ae9e7008811a40af0e9ebf55419c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_173
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 199
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4a617c70584f345a1a58d8a160b04c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_174
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 199
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e856b61d288af73448c5a56609db5fd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map copy_175
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 199
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a4725f52b3190488b66100e94e9331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
