@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD:Project Family/Assets/Backrounds/SNES - Final Fantasy 4 - Toroia.png.meta
-guid: 5dbef6fd0f7e2d047b6117d8531da67d
-=======
-guid: 9d7539b029034aa4cb5467edc4cec85d
->>>>>>> 0bc8fbd4b6d8d35777b5e1be692d2823be71188c:Project Family/Assets/Backrounds/SNES - Final Fantasy 4 - Toroia.png.meta
+guid: a909816349ad79a4b91c33a2246d8609
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
@@ -79,11 +75,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-<<<<<<< HEAD:Project Family/Assets/Backrounds/SNES - Final Fantasy 4 - Toroia.png.meta
-    spriteID: 0bcc693bad5add541a32959d10ff8ad6
-=======
-    spriteID: cb45a7807f1e666479304c7a755d23c1
->>>>>>> 0bc8fbd4b6d8d35777b5e1be692d2823be71188c:Project Family/Assets/Backrounds/SNES - Final Fantasy 4 - Toroia.png.meta
+    spriteID: 2c83e3b2127b72841ba0255dd33806df
     vertices: []
     indices: 
     edges: []
